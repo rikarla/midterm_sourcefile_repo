@@ -3,7 +3,10 @@
 This repository contains all Python source codes developed during the midterm period.
 
 ## Contents
-- Lesson1 – Lecture examples
-- Lesson2 – Laboratory exercises
-- Lesson3 – Hands-on activities- Final demo
-- Added branch and merge demo
+
+* Lesson1 
+* Lesson2 
+* Lesson3 
+* Lesson4
+* Added branch and merge demo
+
